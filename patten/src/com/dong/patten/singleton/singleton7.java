@@ -12,7 +12,7 @@ public enum  singleton7 {
     INSTANCE;
 
     public void n(){
-
+        //业务代码
     }
 
     public static void main(String[] args) {
